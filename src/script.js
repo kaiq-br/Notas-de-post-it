@@ -1,13 +1,13 @@
 const notes = [
-    {   user:'Kaique', 
-        photoURL: 'https://www.grupogestaorh.com.br/conteudo/publicacoes/0fd8bb52dedde750b5798f66b25ce36f20d6a32b.jpg', 
+    {   user:'- Kaique', 
+        photoURL: 'https://i.pinimg.com/736x/49/70/9e/49709ec0e7c8b8f526ea5a6d9104a44e.jpg', 
         phrase:'O sucesso é a única opção.'},
-    {   user:'outro', 
-        photoURL:'https://i.pinimg.com/564x/ef/b9/d0/efb9d088e9f52c743492d01f9b99105f.jpg', 
+    {   user:'- Outro', 
+        photoURL:'https://i.pinimg.com/564x/cb/c0/49/cbc0494a8fe08414294c01fd0faea49d.jpg', 
         phrase:'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum '},
-    {   user:'Anônimo', 
-        photoURL:'https://cdn-icons-png.flaticon.com/512/634/634741.png', 
-        phrase:'AnônimoAnônimoAnônimoAnônimoAnônimoAnônimoAnônimo'}
+    {   user:'- Anônimo', 
+        photoURL:'https://i.pinimg.com/564x/a8/da/b0/a8dab068448052fa6f2738b338c53289.jpg', 
+        phrase:'Anônimo Anônimo Anônimo Anônimo Anônimo Anônimo Anônimo'}
 ]
 
 const imgPost = document.querySelector("img");
