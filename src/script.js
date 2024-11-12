@@ -1,13 +1,13 @@
 const notes = [
-    {   user:'kaique', 
-        photoURL: 'https://photos.google.com/photo/AF1QipPpkrhNRQaoVfAPkIObHEs5hE5-L_e-FtEWf1HZ', 
+    {   user:'Kaique', 
+        photoURL: 'https://www.grupogestaorh.com.br/conteudo/publicacoes/0fd8bb52dedde750b5798f66b25ce36f20d6a32b.jpg', 
         phrase:'O sucesso é a única opção.'},
     {   user:'outro', 
         photoURL:'https://i.pinimg.com/564x/ef/b9/d0/efb9d088e9f52c743492d01f9b99105f.jpg', 
         phrase:'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum '},
-    {   user:'', 
+    {   user:'Anônimo', 
         photoURL:'https://cdn-icons-png.flaticon.com/512/634/634741.png', 
-        phrase:''}
+        phrase:'AnônimoAnônimoAnônimoAnônimoAnônimoAnônimoAnônimo'}
 ]
 
 const imgPost = document.querySelector("img");
