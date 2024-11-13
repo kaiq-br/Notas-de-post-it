@@ -1,2 +1,2 @@
 # Notas de post-it
- Projeto para fazer notas de post-it
+ Projeto para mostrar notas de post-it
